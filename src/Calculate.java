@@ -43,7 +43,7 @@ public class Calculate {
 
 	public static int mul(int x, int y) {
 
-		return 0;
+		return 1;
 	}
 
 	public static double div(int x, int y) {
